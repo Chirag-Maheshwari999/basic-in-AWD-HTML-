@@ -1,0 +1,13 @@
+Let's start making your own first blog.
+Add the title - "Best Coding Practices" to your web page.
+The title can be seen in the browser's tab.
+
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        <title>Best Coding Practices</title>
+    <script type="text/javascript" src="chrome-extension://aadgmnobpdmgmigaicncghmmoeflnamj/ng-inspector.js"></script></head>
+    <body>
+
+    
+</body>
+</html>
